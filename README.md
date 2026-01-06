@@ -2,9 +2,6 @@
 
 A Machine Learning web application that predicts the outcome of T20 International cricket matches based on historical data, team form, and match conditions.
 
-## 🚀 Live Demo
-[Insert your Streamlit Cloud link here once deployed]
-
 ## 📊 Project Overview
 Predicting the winner of a T20 match is complex due to the high impact of the toss, venue conditions, and recent team momentum. This project uses a **Random Forest Classifier** to analyze these variables and provide a win probability for either team.
 
